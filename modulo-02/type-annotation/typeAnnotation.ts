@@ -10,11 +10,11 @@
  */
 
 // ===> Variáveis [Type Annotations]
-let nome: string = "Henrique Giacumuzzi";
+let nome: string = 'Henrique Giacumuzzi';
 console.log(nome);
 
 // ===> Arrays [Type Annotations]
-let capacidades: string[] = ["Design", "Flutter", "Frontend"];
+let capacidades: string[] = ['Design', 'Flutter', 'Frontend'];
 console.log(capacidades);
 
 // ===> Objetos [Type Annotations]
@@ -25,7 +25,7 @@ let carro: {
   preco: number;
 };
 
-carro = { marca: "Honda", modelo: "Civic TypeR", ano: 2024, preco: 370000 };
+carro = { marca: 'Honda', modelo: 'Civic TypeR', ano: 2024, preco: 370000 };
 console.log(carro);
 
 // ===> Functions [Type Annotiaons]

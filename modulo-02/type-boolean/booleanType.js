@@ -18,15 +18,15 @@ console.log(tarfeaPendente);
 // ===> Exemplo 02
 let concluido = false;
 if (!concluido) {
-    console.log("Essa tarefa foi concluída com sucesso!");
+    console.log('Essa tarefa foi concluída com sucesso!');
 }
 else
-    [console.log("Tarefa pendente")];
+    [console.log('Tarefa pendente')];
 // ===> Exemplo 03
 let idade = 19;
 if (idade >= 18) {
-    console.log("Você poode dirigir.");
+    console.log('Você poode dirigir.');
 }
 else
-    [console.log("Você tem menos de 18, não pode dirigir.")];
+    [console.log('Você tem menos de 18, não pode dirigir.')];
 //# sourceMappingURL=booleanType.js.map

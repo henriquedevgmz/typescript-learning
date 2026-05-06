@@ -9,5 +9,5 @@
  *
  */
 
-let mensagem: string = "Hello World, Henrique!";
+let mensagem: string = 'Hello World, Henrique!';
 console.log(mensagem);
