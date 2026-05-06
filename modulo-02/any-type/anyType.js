@@ -3,7 +3,7 @@
  *
  * @module AnyType
  * @description
- * Demmonstra conceitos de Any em TypeScript.
+ * Demonstra conceitos de Any em TypeScript.
  *
  * @author Henrique Giacumuzzi
  * @date 06-05-2026

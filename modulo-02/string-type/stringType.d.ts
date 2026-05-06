@@ -2,7 +2,7 @@
  *
  * @module StringType
  * @description
- * Demmonstra conceitos de String em TypeScript.
+ * Demonstra conceitos de String em TypeScript.
  *
  * @author Henrique Giacumuzzi
  * @date 06-05-2026

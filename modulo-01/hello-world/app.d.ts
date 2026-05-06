@@ -2,7 +2,7 @@
  *
  * @module HelloWorld
  * @description
- * Demmonstra conceito básico de TypeScript.
+ * Demonstra conceito básico de TypeScript.
  *
  * @author Henrique Giacumuzzi
  * @date 06-05-2026

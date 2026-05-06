@@ -2,7 +2,7 @@
  *
  * @module TupleType
  * @description
- * Demmonstra conceitos de Tuple em TypeScript.
+ * Demonstra conceitos de Tuple em TypeScript.
  *
  * @author Henrique Giacumuzzi
  * @date 06-05-2026

@@ -3,7 +3,7 @@
  *
  * @module TypeAnnotations
  * @description
- * Demmonstra conceitos de type annotation em TypeScript.
+ * Demonstra conceitos de type annotation em TypeScript.
  *
  * @author Henrique Giacumuzzi
  * @date 06-05-2026
