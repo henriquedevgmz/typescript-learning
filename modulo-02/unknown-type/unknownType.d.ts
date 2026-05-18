@@ -1,6 +1,6 @@
 /**
  *
- * @module unkowType
+ * @module unknownType
  * @description
  * Demonstra conceitos de Unknown em TypeScript.
  *
@@ -9,4 +9,4 @@
  *
  */
 export {};
-//# sourceMappingURL=unknowType.d.ts.map
+//# sourceMappingURL=unknownType.d.ts.map

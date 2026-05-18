@@ -1,6 +1,6 @@
 /**
  *
- * @module unkowType
+ * @module unknownType
  * @description
  * Demonstra conceitos de Unknown em TypeScript.
  *
@@ -20,7 +20,7 @@ valorVariavel = 'Oi! Tudo bem?';
 
 // console.log(valorVariavel);
 
-// ===> Exemplo 02 - Erro ao tetnar atribuir um valor do tipo 'unkown' a outros tipos.
+// ===> Exemplo 02 - Erro ao tentar atribuir um valor do tipo 'unknown' a outros tipos.
 /* let valor: unknown;
 
 let valor1: boolean = valor;
