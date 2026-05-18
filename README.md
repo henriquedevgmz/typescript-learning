@@ -124,7 +124,7 @@ Recursos recomendados para quem precisa revisar:
 | Módulo | Tema | Status |
 |--------|------|--------|
 | 01 | Introdução ao TypeScript | ✅ Concluído |
-| 02 | Tipos Básicos | ⏳ Em Andamento |
+| 02 | Tipos Básicos | ✅ Concluído |
 | 03 | Fluxos de Controle | 🔜 Em breve |
 | 04 | Funções | 🔜 Em breve |
 | 05 | Classes | 🔜 Em breve |
