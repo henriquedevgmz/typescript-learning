@@ -25,4 +25,4 @@ function multiplicarNumero(num1, num2) {
     return num1 * num2;
 }
 console.log(multiplicarNumero(2, 5));
-//# sourceMappingURL=typeAnnotation.js.map
+//# sourceMappingURL=annotationType.js.map

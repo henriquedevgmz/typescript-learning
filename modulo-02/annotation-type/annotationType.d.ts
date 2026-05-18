@@ -9,4 +9,4 @@
  *
  */
 export {};
-//# sourceMappingURL=typeAnnotation.d.ts.map
+//# sourceMappingURL=annotationType.d.ts.map
